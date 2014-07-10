@@ -1,0 +1,5 @@
+diff -r tor/src/or/or.h tor-patched/src/or/or.h
+4236c4236
+< #define DEFAULT_ROUTE_LEN 3
+---
+> #define DEFAULT_ROUTE_LEN 7
